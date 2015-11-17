@@ -1,0 +1,13 @@
+---
+- !ruby/object:Stat
+  points: '20'
+  player: Petras Petrauskas
+  game: Rytas-Zalgiris
+- !ruby/object:Stat
+  points: '10'
+  player: Jonas Jonaitis
+  game: Rytas-Zalgiris
+- !ruby/object:Stat
+  points: '5'
+  player: Juozas Juozaitis
+  game: Rytas-Zalgiris
